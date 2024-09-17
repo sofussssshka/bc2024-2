@@ -1,3 +1,4 @@
 http://backend.course#sofussssshka
-http://backend.course?name="ÐÑÐ»ÑÐ²ÐºÐ¾ Ð¡Ð¾ÑÑÑ"&github_name=sofussssshka&group="Ð¤ÐÐ-26Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
+http://backend.course?name=%22%D0%9C%D1%83%D0%BB%D1%8F%D0%B2%D0%BA%D0%BE%20%D0%A1%D0%BE%D1%84%D1%96%D1%8F%22&github_name=sofussssshka&group=%22%D0%A4%D0%95%D0%86-26%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+
 
